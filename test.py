@@ -9,4 +9,5 @@ a = tf.constant(11)
 b = tf.constant(39)
 print(session.run(a+ b))
 print('hellow')
+print('sfsdljflsdf')
 
